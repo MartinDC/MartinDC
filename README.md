@@ -1,7 +1,4 @@
-### Welcome to my corner of the internet!
-
-I'm Martin. 
-Please checkout my [repos](https://github.com/MartinDC?tab=repositories) 
+### I'm Martin - Welcome to my corner of the internet
 
 <!--
 **MartinDC/MartinDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
