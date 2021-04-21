@@ -1,5 +1,7 @@
 ### I'm Martin  - Welcome to my corner of the internet 📫
 
+###### Visit my [repositories](https://github.com/MartinDC?tab=repositories), [website](http://www.mdcthings.se) or see my [profile](https://github.com/MartinDC) 
+
 <!--
 **MartinDC/MartinDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
